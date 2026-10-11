@@ -8,6 +8,8 @@ done?" — before a human ever opens it. Not a renderer, not an AI: a linter.
 **Confidence: High (>=85%)** for the seven structural rules on OOXML-as-ZIP;
 **Medium (60-79%)** that theme-derived font allowlists match real-world decks.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 AI decks now output *native, editable* PPTX — native shapes, live charts,
